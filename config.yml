@@ -1,0 +1,14 @@
+storage: '/tmp/gidt'
+datasource:
+  - engine: google
+    keywords:
+      - pikachu
+      - eevee
+#   - engine: baidu
+#     keywords:
+#       - search: 皮卡丘
+#         annotation: pikachu
+#       - search: 伊布
+#         annotation: eevee
+
+
